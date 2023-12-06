@@ -26,15 +26,16 @@
 [![Spotify](https://spotify-now-playing-shreyashp47.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
 
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
+-->
+
+
 
 [<img align="left" alt="shreyashp47 | Twitter" width="26px" src="https://github.com/shreyashp47/shreyashp47/blob/main/icons/twitter.png"/>][twitter]
 [<img align="left" alt="akshay-ashok-code | LinkedIn" width="26px" src="https://github.com/shreyashp47/shreyashp47/blob/main/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="akshayy_nambiar | Instagram" width="22px" src="https://github.com/shreyashp47/shreyashp47/blob/main/icons/instagram.png" />][instagram]
-[<img align="left" alt="shreyashp47 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="shreyashp47 | Medium" height="22px" src="https://github.com/shreyashp47/shreyashp47/blob/main/icons/stackoverflow.png" />][stackoverflow]
 <br />
 <br />
--->
+
 
 ### Languages and Tools:
 <p>
