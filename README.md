@@ -34,6 +34,7 @@
 [<img align="left" alt="shreyashp47 | Medium" height="22px" src="https://github.com/shreyashp47/shreyashp47/blob/main/icons/stackoverflow.png" />][stackoverflow]
 <br />
 <br />
+-->
 
 ### Languages and Tools:
 <p>
@@ -51,11 +52,10 @@
 <img align="left" alt="Unity" title="Unity" width="40" height="40" src="https://github.com/shreyashp47/shreyashp47/blob/main/icons/unity.png" />&nbsp;
 </p>
 
-[twitter]: https://twitter.com/shreyashp47
-[instagram]: https://instagram.com/akshayy_nambiar
-[linkedin]: https://linkedin.com/in/akshay-ashok-code
-[medium]: https://medium.com/@shreyashp47
+[twitter]: https://twitter.com/shreyashp4
+[instagram]: https://instagram.com/shreyashpattewar_
+[linkedin]: https://linkedin.com/in/shreyash-pattewar-mobile-developer
+<!--[medium]: https://medium.com/@shreyashp47
 [stackoverflow]: https://stackoverflow.com/users/13432369/akshay-ashok?tab=profile
 [spotify]: https://open.spotify.com/user/dd7o8yr5pft0b4qvntfk8o1zu
-
 -->
