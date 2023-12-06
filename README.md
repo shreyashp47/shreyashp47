@@ -24,11 +24,8 @@
 
 ### Spotify Playing: <img align="center" alt="Headphone" height="60" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
 [![Spotify](https://spotify-now-playing-shreyashp47.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
-
-### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 -->
-
-
+### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 
 [<img align="left" alt="shreyashp4  | Twitter" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/twitter.png"/>][twitter]
 [<img align="left" alt="shreyash-pattewar-mobile-developer  | LinkedIn" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/linkedin.png" />][linkedin]
