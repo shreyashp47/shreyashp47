@@ -1,5 +1,3 @@
-### Hi there 👋
-# SHREYASH
 
 # Hi there, I'm Shreyash <img align="center" src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="35">
 <img src="https://komarev.com/ghpvc/?username=shreyashp47&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
