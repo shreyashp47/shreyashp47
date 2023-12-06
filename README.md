@@ -30,9 +30,9 @@
 
 
 
-[<img align="left" alt="shreyashp4 | Twitter" width="26px" src="https://github.com/shreyashp47/shreyashp47/blob/main/icons/twitter.png"/>][twitter]
-[<img align="left" alt="shreyash-pattewar-mobile-developer| LinkedIn" width="26px" src="https://github.com/shreyashp47/shreyashp47/blob/main/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="shreyashpattewar_| Instagram" width="22px" src="https://github.com/shreyashp47/shreyashp47/blob/main/icons/instagram.png" />][instagram]
+[<img align="left" alt="shreyashp4 | Twitter" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/twitter.png"/>][twitter]
+[<img align="left" alt="shreyash-pattewar-mobile-developer| LinkedIn" width="26px" src="[linkedin](https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/linkedin.png)" />][linkedin]
+[<img align="left" alt="shreyashpattewar_| Instagram" width="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/instagram.png" />][instagram]
 <br />
 <br />
 
