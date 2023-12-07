@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on maintaining my published projects<br>👯 I’m looking to connect with other developers<br>🌱 I’m currently learning Swift
+🔭 I’m currently working on maintaining my published projects<br>👯 I’m looking to connect with other developers<br>🌱 I’m currently exploring Swift
 
 
 ## 🌐 Socials:
