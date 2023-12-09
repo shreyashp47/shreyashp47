@@ -7,8 +7,8 @@
 <br>⚡ Fun fact: Love swimming & ping pong on and off-screen!
  
 
-
-##  Socials:
+### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
+<!-- ##  Socials: -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyashpattewar_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-pattewar-mobile-developer)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shreyashp4) 
@@ -29,6 +29,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyashp47&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shreyashp47&icon=0&color=0)](https://visitcount.itsvg.in)
