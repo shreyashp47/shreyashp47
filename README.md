@@ -7,7 +7,6 @@
 <br>💬 Ask me about: Android, iOS, staying consistent in skill growth, swimming, ping pong.
 <br>⚡ Fun fact: Love swimming & ping pong on and off-screen!
 
-
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 <!-- ##  Socials: -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyashpattewar_)
