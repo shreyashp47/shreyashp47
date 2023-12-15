@@ -5,7 +5,6 @@
 
 <br>🔭 Working on: Android app development <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
  & exploring iOS <img align="center"  alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" />.
-
 <br>👯 Looking to collaborate on: Mobile app projects.
 <br>🤝 Need help with: Advancing in iOS development.
 <br>🌱 Currently learning: iOS app development alongside Android.
@@ -33,9 +32,17 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)<br/>
+| <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="Shreyash's github stats" /></a> | <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a> |
+| ------------- | ------------- |
+
+
+<!--
+![](https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyashp47&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 
