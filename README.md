@@ -20,7 +20,6 @@
 
 
 ##  Tech Stack: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) 
@@ -31,22 +30,18 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-
 ## GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)<br/>
-| <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="Shreyash's github stats" /></a> | <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a> |
+![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="26%"/><br> 
+| <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="Shreyash's github stats" /></a> | <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Ruby,c" /></a> |
 | ------------- | ------------- |
-
-
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
-
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyashp47&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-
+---
+### Spotify Playing: <img align="center" alt="Headphone" width="60" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31372d635mt3vwqjwz6wbpsa5e2e&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31372d635mt3vwqjwz6wbpsa5e2e&redirect=true)
 ---
 
 
