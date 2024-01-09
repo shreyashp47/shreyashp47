@@ -30,6 +30,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 ## GitHub Stats:
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)    | <a> <img src="https://github.com/shreyashp47/shreyashp47/blob/main/dev-working_rounded.gif?raw=true"  href="https://github.com/shreyashp47"  width="300"/> </a>  |
 |-----------------|--|
