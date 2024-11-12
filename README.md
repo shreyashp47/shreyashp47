@@ -10,7 +10,7 @@
 <br>🤝 Need help with: Advancing in iOS development.
 <br>🌱 Currently learning: iOS app development alongside Android.
 <br>💬 Ask me about Android, iOS, staying consistent in skill growth, swimming, ping pong.
-<br>⚡ Fun fact: Love swimming & ping pong on and off-screen!
+<br>⚡ Fun fact Love swimming & ping pong on and off-screen!
 
 
 ### Connect with me <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
