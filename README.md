@@ -42,7 +42,8 @@
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)    | <a> <img src="https://github.com/shreyashp47/shreyashp47/blob/main/dev-working_rounded.gif?raw=true"  href="https://github.com/shreyashp47"  width="300"/> </a>  |
 |-----------------|--|
 | <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="Shreyash's github stats" /></a> | <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Ruby,c" /></a> |
-|![Leetcode Stats](https://leetcard.jacoblin.cool/shreyashp47?ext=heatmap)| |
+|![Leetcode Stats](https://leetcard.jacoblin.cool/shreyashp47?ext=heatmap)|![2024-50](https://github.com/user-attachments/assets/898f12a4-7b2f-4fac-ae97-db043855058e)
+ |
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
