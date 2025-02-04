@@ -7,7 +7,7 @@
  
 <br>🔭 Working on Android app development.<img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
  & exploring iOS <img align="center"  alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" />
-<br>👯 Looking to collaborate on: Mobile app projects.
+<br>👯 Looking to collaborate on Mobile app projects.
 <br>🤝 Need help with Advancing in iOS development.
 <br>🌱 Currently learning iOS app development alongside Android.
 <br>💬 Ask me about: Android, iOS, staying consistent in skill growth, swimming, ping pong.
