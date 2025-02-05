@@ -10,7 +10,7 @@
 <br>👯 Looking to collaborate on Mobile app projects.
 <br>🤝 Need help with Advancing in iOS development.
 <br>🌱 Currently learning iOS app development alongside Android.
-<br>💬 Ask me about: Android, iOS, staying consistent in skill growth, swimming, ping pong.
+<br>💬 Ask me about Android, iOS, staying consistent in skill growth, swimming, ping pong.
 <br>⚡ Fun fact Love swimming & ping pong on and off-screen!
 
 
