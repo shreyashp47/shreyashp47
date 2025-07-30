@@ -36,10 +36,10 @@
 ![MySQL](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 
 ## GitHub Stats:
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)    | <a> <img src="https://github.com/shreyashp47/shreyashp47/blob/main/dev-working_rounded.gif?raw=true"  href="https://github.com/shreyashp47"  width="300"/> </a>  |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)    | <a> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863"  href="https://github.com/shreyashp47"  width="300"/> </a>  |
 |-----------------|--|
 | <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="Shreyash's github stats" /></a> | <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Ruby,c" /></a> |
 |![Leetcode Stats](https://leetcard.jacoblin.cool/shreyashp47?ext=heatmap)| <a> <img src="https://github.com/user-attachments/assets/898f12a4-7b2f-4fac-ae97-db043855058e"  href="https://github.com/shreyashp47"  width="300"/> </a> |
