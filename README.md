@@ -1,16 +1,18 @@
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2 style="margin: 0;">Hey there! I'm Shreyash</h2>
+  <img src="https://komarev.com/ghpvc/?username=shreyashp47&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
+</div>
 
-<h2>Hey there! I'm Shreyash <img src="https://komarev.com/ghpvc/?username=shreyashp47&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
-</h2> 
 
-    
+
 <!-- [![](https://visitcount.itsvg.in/api?id=shreyashp47&icon=0&color=0)](https://visitcount.itsvg.in) -->
 ### About Me
 -  Working on Android app development <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" height="15" />
 -  Exploring iOS development <img src="https://media.giphy.com/media/tYiGDt4b33UVq/giphy.gif" width="20" />
--  Looking to collaborate on mobile app projects  
--  Open to guidance in advanced iOS development  
--  Currently learning iOS development alongside Android  
--  Ask me about Android, iOS, consistency in skill growth, swimming, ping pong  
+-  Looking to collaborate on mobile app projects
+-  Open to guidance in advanced iOS development
+-  Currently learning iOS development alongside Android
+-  Ask me about Android, iOS, consistency in skill growth, swimming, ping pong
 -  Fun Fact: I enjoy swimming & ping pong — on and off screen!
 
 
@@ -24,19 +26,19 @@
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shreyashp4)  -->
 
-##  Tech Stack: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+##  Tech Stack: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) -->
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) 
-![MySQL](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![MySQL](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## GitHub Stats:
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)    | <a> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863"  href="https://github.com/shreyashp47"  width="300"/> </a>  |
