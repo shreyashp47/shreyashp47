@@ -1,12 +1,12 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2 style="margin: 0;">Hey there! I'm Shreyash</h2>
+  <h2 style="margin: 0;">Hey there! I am Shreyash</h2>
   <img src="https://komarev.com/ghpvc/?username=shreyashp47&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
 </div>
 
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=shreyashp47&icon=0&color=0)](https://visitcount.itsvg.in) -->
-### About Me
+### About Me 
 -  Working on Android app development <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" height="15" />
 -  Exploring iOS development <img src="https://media.giphy.com/media/tYiGDt4b33UVq/giphy.gif" width="20" />
 -  Looking to collaborate on mobile app projects
