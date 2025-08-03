@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2 style="margin: 0;">Hey there! I'm Shreyash</h2>
+  <h2 style="margin: 0;">Hey there! I am Shreyash</h2>
   <img src="https://komarev.com/ghpvc/?username=shreyashp47&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
 </div>
 
