@@ -1,70 +1,76 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2 style="margin: 0;">Hey there! I'm Shreyash</h2>
-  <img src="https://komarev.com/ghpvc/?username=shreyashp47&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
+<div align="center">
+
+## Hi, I'm Shreyash 👋
+
+**Software engineer at Cognizant, building AI agents, LLM-powered apps and Android apps.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shreyashp47.github.io-7c3aed?style=flat-square&logo=githubpages&logoColor=white)](https://shreyashp47.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashpattewardeveloper)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@shreyashp47)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/shreyashp47/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12186899/shreyash-pattewar)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shreyashp4)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyashp47@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=shreyashp47&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
+
 </div>
 
+### About me
 
+- 🤖 I build with LLMs: tool calling, MCP servers, local models with Ollama, streaming chat, and voice (speech-to-text and text-to-speech).
+- 📚 I made [AI Foundation](https://aifoundation.web.app), 93 free visual lessons on AI engineering: caching, RAG retrieval and reranking, tool calling, evals and guardrails.
+- 📱 Android engineer by background: Kotlin, Jetpack Compose and Clean Architecture, with apps on Google Play.
+- 🏓 Off screen: swimming and ping pong.
 
-<!-- [![](https://visitcount.itsvg.in/api?id=shreyashp47&icon=0&color=0)](https://visitcount.itsvg.in) -->
-### About Me 
--  Working on Android app development <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" height="15" />
--  Exploring iOS development <img src="https://media.giphy.com/media/tYiGDt4b33UVq/giphy.gif" width="20" />
--  Looking to collaborate on mobile app projects
--  Open to guidance in advanced iOS development
--  Currently learning iOS development alongside Android
--  Ask me about Android, iOS, consistency in skill growth, swimming, ping pong
--  Fun Fact: I enjoy swimming & ping pong — on and off screen!
+### 🤖 AI projects
 
+| Project | What it does | Built with |
+|---|---|---|
+| [**AI Foundation**](https://aifoundation.web.app) · [live](https://aifoundation.web.app) | Learn AI engineering one concept at a time: plain-English lessons, an interactive demo, runnable Python and a quiz in each | JavaScript · Python · Firebase |
+| [**Agent Office**](https://github.com/shreyashp47/Agent-Office) | Real-time dashboard for OpenCode AI agents: a plugin streams tool calls and idle/permission events over SSE, and each agent moves around a pixel-art office | TypeScript · Hono · SSE |
+| [**Shreyash-AI**](https://github.com/shreyashp47/Shreyash-AI) | Local agent: a FastAPI service lets an Ollama model pick a tool from an MCP server, runs it, and answers from the result | Python · LangChain · MCP · Ollama |
+| [**CalmSpace**](https://github.com/shreyashp47/CalmSpace) | Voice-first AI companion: Whisper speech-to-text, an LLM conversation arc, text-to-speech and a crisis check on every message | Node.js · Express · Groq |
+| [**Tone Fixer**](https://github.com/shreyashp47/tone-fixer) | Chrome extension that rewrites any text in 9 tones using Groq, OpenRouter, Claude, ChatGPT, Gemini or Grok | JavaScript · Chrome Extensions |
+| [**ChatGPT Analysis**](https://github.com/shreyashp47/chatgpt-analysis) · [live](https://chatgpt-clone-app-lyart.vercel.app) | Streaming chat across Ollama, Groq, Gemini and OpenAI, with Markdown and code highlighting | Next.js · TypeScript |
 
-### Connect with me <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
-<!-- ##  Socials: -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=android&logoColor=white)](https://linkedin.com/in/shreyashpattewardeveloper)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shreyashp47)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shreyashp47/)
-[![Stackoverflow Follow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/12186899/shreyash-pattewar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreyashpattewar_)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/follow?screen_name=shreyashp4)
+### 📱 Mobile apps
 
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shreyashp4)  -->
+| App | What it does | Built with |
+|---|---|---|
+| [**DoTrack**](https://github.com/shreyashp47/DoTrack) · [Google Play](https://play.google.com/store/apps/details?id=com.shreyash.dotrack) | Task manager that turns your wallpaper into a live to-do list, shipped with a GitHub Actions CI/CD pipeline | Kotlin · Jetpack Compose · Hilt · Room |
+| [**Sensor-App**](https://github.com/shreyashp47/Sensor-App) · [Google Play](https://play.google.com/store/apps/details?id=com.shreyash.sensorapp) | Real-time monitor for 10 sensors with live charts, a tilt-compensated compass and a 3D gyroscope cube | Kotlin · Jetpack Compose · Room |
+| [**AntiTheft Alarm**](https://github.com/shreyashp47/Anti-Theft-Alarm-App) | Alarm for phones left charging or unattended: charging, motion and SIM guards plus an intruder selfie | Kotlin · Jetpack Compose |
 
-##  Tech Stack: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 🧰 Tech stack
 
-<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) -->
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![MySQL](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+**AI & LLMs**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## GitHub Stats:
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyashp47&theme=nightowl&hide_border=true)    | <a> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863"  href="https://github.com/shreyashp47"  width="300"/> </a>  |
-|-----------------|--|
-| <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="Shreyash's github stats" /></a> | <a href="https://github.com/shreyashp47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Ruby,c" /></a> |
-|![Leetcode Stats](https://leetcard.jacoblin.cool/shreyashp47?ext=heatmap)| <a> <img src="https://github.com/user-attachments/assets/9b48c34c-f11f-4628-a8ee-58820e6a6fd3"  href="https://github.com/shreyashp47"  width="300"/> </a> |
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=12186899)](https://github.com/kurt-liao/so-stats)
+**Mobile**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
+**Web & tools**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyashp47&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
--->
-
-[![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyashp47&theme=github&bg_color=0d1117&color=7fdbca&line=c792e9&point=7fdbca&area=false&hide_border=true)](https://github.com/shreyasho47/github-readme-activity-graph)
----
-
-
-<!--  SPOTIFY
-### Spotify Playing: <img align="center" alt="Headphone" width="60" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31372d635mt3vwqjwz6wbpsa5e2e&cover_image=true&theme=novatorem&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31372d635mt3vwqjwz6wbpsa5e2e&redirect=true)
--->
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyashp47&show_icons=true&hide_border=true&hide=contribs&bg_color=12121a&title_color=7c3aed&icon_color=06b6d4&text_color=d4d4d8&ring_color=7c3aed" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashp47&layout=compact&hide_border=true&bg_color=12121a&title_color=7c3aed&text_color=d4d4d8" alt="Most used languages" />
+</p>
