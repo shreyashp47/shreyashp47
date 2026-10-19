@@ -4,8 +4,8 @@
 
 **Software engineer at Cognizant, building AI agents, LLM-powered apps and Android apps.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shreyashp47.github.io-7c3aed?style=flat-square&logo=githubpages&logoColor=white)](https://shreyashp47.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashpattewardeveloper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shreyashp47.github.io-7c3aed?style=flat-square)](https://shreyashp47.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/shreyashpattewardeveloper)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@shreyashp47)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/shreyashp47/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12186899/shreyash-pattewar)
