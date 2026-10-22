@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Shreyash 👋
+## Hi, I'm Shreyash Pattewar 👋
 
 **Software engineer at Cognizant, building AI agents, LLM-powered apps and Android apps.**
 
